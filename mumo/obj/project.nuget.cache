@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "bhihrS7BJOIBtdPwTV52c41r8o+fSOW0Vy0vEBLTFj6fLRyAuA9isVhGa2V2FOpGtGDbH5/R9ldoVRbUZ2rHgw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\kaans\\Desktop\\mumtaz\\mumo\\mumo\\mumo.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\kaans\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}
